@@ -1,4 +1,4 @@
-# supermall
+# This is a shopping website made by vue.js.
 
 ## Project setup
 ```
